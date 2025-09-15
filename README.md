@@ -1,4 +1,4 @@
-# 🐉 Welcome, I’m Harsh
+# 🙏 Welcome, I’m Harsh
 
 💻 Software Developer (MERN | GraphQL | AI)  
 ⚡ Passionate about building intelligent apps & exploring Generative AI
@@ -7,9 +7,9 @@
 
 ## 🌐 Connect with Me
 
-- [🌎 Portfolio](https://your-portfolio-link.com)
-- [💼 LinkedIn](https://www.linkedin.com/in/hprakash1999)
-- [✍️ Dev.to](https://dev.to/hprakash1999)
+[![Portfolio](https://img.shields.io/badge/🌎-Portfolio-blue?style=for-the-badge)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hprakash1999)
+[![Dev.to](https://img.shields.io/badge/✍️-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hprakash1999)
 
 ---
 
@@ -31,12 +31,8 @@
 
 ---
 
-## 🐍 Snake Game (Contributions Eating Snake!)
-
-![Snake animation](https://github.com/hprakash1999/hprakash1999/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/hprakash1999/hprakash1999/blob/main/github-contribution-grid-snake.svg)
 
 ---
 
-## ✨ Aesthetic Touch
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation">
+<!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"> -->
