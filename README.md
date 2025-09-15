@@ -1,38 +1,32 @@
 # 🙏 Welcome, I’m Harsh
 
-💻 Software Developer (MERN | GraphQL | AI)  
-⚡ Passionate about building intelligent apps & exploring Generative AI
+💻 Full Stack Developer (MERN | GraphQL | AI)  
+⚡ Passionate about building intelligent apps & exploring Generative AI  
+📚 Currently exploring Java + Spring Boot & System Design
 
 ---
 
 ## 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/🌎-Portfolio-blue?style=for-the-badge)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hprakash1999)
-[![Dev.to](https://img.shields.io/badge/✍️-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hprakash1999)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hprakash1999)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hprakash1999)
 
 ---
 
-## 🚀 Tech & Tools
+## 🚀 Tech Stack
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hprakash1999&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hprakash1999&layout=compact&theme=radical)
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hprakash1999&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hprakash1999&layout=compact&theme=tokyonight)
 
 ---
-
-![Snake animation](https://github.com/hprakash1999/hprakash1999/blob/main/github-contribution-grid-snake.svg)
-
----
-
-<!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"> -->
