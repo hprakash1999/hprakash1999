@@ -1,16 +1,16 @@
-<h2 align="left">👋 Hello! I'm Harsh Prakash, a Software Developer from India</h2>
+<h2 align="left">Hello! I'm Harsh Prakash, a Software Developer from India</h2>
 
 ###
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/4d/cc/98/4dcc989dca1206d7b12a6e3e833af329.gif" height="200" alt="welcome gif" />
+  <img src="https://i.pinimg.com/736x/1d/1b/7b/1d1b7b3b77e031adcaa41f009afd10ea.jpg" height="200" alt="Harsh Prakash" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshPrakash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshPrakash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshPrakash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Harsh Prakash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshPrakash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Harsh Prakash's Top Languages" />
 </div>
 
 ###
@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/HarshPrakash/HarshPrakash/output/snake.svg" alt="Snake animation" />
+
+###
