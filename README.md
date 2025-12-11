@@ -12,7 +12,7 @@
 
 <!-- Socials -->
 <p>
-  <a href="https://github.com/hprakash1999"><img src="https://img.shields.io/badge/Follow%20@hprakash1999-181717?style=social&logo=github" alt="GitHub Followers" /></a>
+  <a href="https://github.com/harshprakashtech"><img src="https://img.shields.io/badge/Follow%20@harshprakashtech-181717?style=social&logo=github" alt="GitHub Followers" /></a>
   <a href="https://linkedin.com/in/harshprakashtech"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://twitter.com/harshprakash_"><img src="https://img.shields.io/twitter/follow/harshprakash_?style=social" alt="Twitter" /></a>
 </p>
