@@ -65,25 +65,6 @@ I am a **Software Developer** based in **India 🇮🇳**, currently focused on 
 
 </div>
 
----
-
-## 🎮 GitHub Activity
-
-<div align="center">
-  
-### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshprakashtech&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats" />
-
-### 🐍 Watch the Snake Eat My Contributions!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshprakashtech/harshprakashtech/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshprakashtech/harshprakashtech/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshprakashtech/harshprakashtech/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
 <br />
 
 <div align="center">
