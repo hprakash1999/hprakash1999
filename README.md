@@ -56,12 +56,9 @@ I am a **Software Developer** based in **India 🇮🇳**, currently focused on 
 
 <div align="center">
 
-| **Project**                                                                        | **Description**                                                     | **Tech Stack**    |
-| :--------------------------------------------------------------------------------- | :------------------------------------------------------------------ | :---------------- |
-| **[AI-Powered Email](https://github.com/harshprakashtech/ai-powered-email)**       | Intelligent email management system automating workflows.           | `Node.js` `AI/ML` |
-| **[ClearVue](https://github.com/harshprakashtech/clearvue)**                       | E-commerce platform for optical products with inventory management. | `MERN` `Redux`    |
-| **[Companies Directory](https://github.com/harshprakashtech/companies-directory)** | Robust business directory with search and filtering capabilities.   | `React` `Node.js` |
-| **[Excellence Fitout](https://github.com/harshprakashtech/excellence-fitout)**     | Modern website for a Dubai-based construction company.              | `HTML/CSS` `JS`   |
+| **Project**                                                  | **Description**                                                     | **Tech Stack**         |
+| :----------------------------------------------------------- | :------------------------------------------------------------------ | :--------------------- |
+| **[Clearvue](https://github.com/harshprakashtech/clearvue)** | E-commerce platform for optical products with inventory management. | `Next.js` `TypeScript` |
 
 </div>
 
