@@ -12,7 +12,7 @@
 
 <!-- Socials -->
 <p>
-  <a href="https://github.com/hprakash1999"><img src="https://img.shields.io/github/followers/hprakash1999?label=Followers&style=social" alt="GitHub Followers" /></a>
+  <a href="https://github.com/hprakash1999"><img src="https://img.shields.io/badge/Follow%20@hprakash1999-181717?style=social&logo=github" alt="GitHub Followers" /></a>
   <a href="https://linkedin.com/in/harshprakashtech"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://twitter.com/harshprakash_"><img src="https://img.shields.io/twitter/follow/harshprakash_?style=social" alt="Twitter" /></a>
 </p>
@@ -69,7 +69,7 @@ I am a **Software Developer** based in **India 🇮🇳**, currently focused on 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hprakash1999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hprakash1999&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hprakash1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=6" height="180" alt="Top Languages" />
 </div>
 
