@@ -65,8 +65,6 @@ I am a **Software Developer** based in **India 🇮🇳**, currently focused on 
 
 </div>
 
-<br />
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,007ACC&height=100&section=footer" width="100%" />
 </div>
