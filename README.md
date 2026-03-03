@@ -1,67 +1,41 @@
 <div align="center">
 
-<!-- Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,007ACC&height=180&section=header&text=Harsh%20Prakash&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Building%20Digital%20Experiences&descAlignY=60&descSize=20" alt="Harsh Prakash Header" />
+# Harsh Prakash
 
-<!-- Intro -->
-<h3>Software Developer | Full Stack Engineer | ML Enthusiast</h3>
+**Software Developer · MERN Stack · Python · Cloud (AWS) · Generative AI**
 
-<p>
-  I build scalable web applications and explore the intersection of <strong>Software Engineering</strong> and <strong>Artificial Intelligence</strong>.
-</p>
-
-<!-- Socials -->
-<p>
-  <a href="https://github.com/harshprakashtech"><img src="https://img.shields.io/badge/Follow%20@harshprakashtech-181717?style=social&logo=github" alt="GitHub Followers" /></a>
-  <a href="https://linkedin.com/in/harshprakashtech"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/harshprakash_"><img src="https://img.shields.io/twitter/follow/harshprakash_?style=social" alt="Twitter" /></a>
-</p>
-
-<p>
-<a href="https://dev.to/harshprakashtech">Read my blogs</a>
-</p>
-
-</div>
-
-<br />
-
-## 👨 About Me
-
-I am a **Software Developer** based in **India 🇮🇳**, currently focused on building high-performance SaaS applications and integrating AI solutions. I specialize in the **MERN stack** and have a strong foundation in cloud architecture and system design.
-
-- 🔭 I’m currently working on **AI-powered productivity tools**.
-- 🌱 I’m currently learning **Advanced Machine Learning** and **MLOps**.
-- 💬 Ask me about **React, Next.js, Node.js, and System Design**.
-- 📫 Reach me at **hprakash.tech@gmail.com**.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-|                                                  **Languages**                                                  |                                              **Frontend**                                              |                                               **Backend**                                                |                                                  **Databases**                                                  |                                         **Cloud & DevOps**                                          |
-| :-------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
-|        ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)         |   ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)    |  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  |     ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)      |  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)  |
-|          ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)          | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)  | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |    ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)    | ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white) |        ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)         |     ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)      |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |                                                                                                        |  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)  |                                                                                                                 | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-|       ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)       |                                                                                                        |                                                                                                          |                                                                                                                 |                                                                                                     |
+New Delhi, India · [hprakash.tech@gmail.com](mailto:hprakash.tech@gmail.com) · [linkedin.com/in/harshprakashtech](https://linkedin.com/in/harshprakashtech)
 
 </div>
 
 ---
 
-## 💻 Featured Projects
+Software Developer with 1+ year of professional experience building production-grade SaaS applications. I work across the MERN stack, integrate Generative AI capabilities, and deploy on AWS. Currently focused on AI-powered tools and scalable web architecture.
 
-<div align="center">
+---
 
-| **Project**                                                  | **Description**                                                     | **Tech Stack**         |
-| :----------------------------------------------------------- | :------------------------------------------------------------------ | :--------------------- |
-| **[Clearvue](https://github.com/harshprakashtech/clearvue)** | E-commerce platform for optical products with inventory management. | `Next.js` `TypeScript` |
+## Stack
 
-</div>
+**Languages** · JavaScript (ES6+) · TypeScript · Python
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00D9FF,007ACC&height=100&section=footer" width="100%" />
-</div>
+**Frontend** · React.js · Next.js · Redux · HTML5 · CSS3
+
+**Backend** · Node.js · Express.js · FastAPI · REST APIs · GraphQL · JWT
+
+**Databases** · MongoDB · PostgreSQL · Redis · Mongoose
+
+**Cloud & DevOps** · AWS (EC2) · Docker · Vercel · Render · Git · GitHub Actions
+
+**Practices** · System Design · MVC Architecture
+
+---
+
+## Projects
+
+**[Clearvue](https://github.com/harshprakashtech/clearvue)** — E-commerce platform for optical products with inventory management · `Next.js · TypeScript · MongoDB`
+
+---
+
+## Elsewhere
+
+[github.com/harshprakashtech](https://github.com/harshprakashtech) · [dev.to/harshprakashtech](https://dev.to/harshprakashtech) · [twitter.com/harshprakash\_](https://twitter.com/harshprakash_)
